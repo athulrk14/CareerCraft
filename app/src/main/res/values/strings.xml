@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CareerCraft</string>
+    <string name="tab_resumes">Resumes</string>
+    <string name="tab_preview">Preview &amp; Export</string>
+    <string name="tab_job_tailor">Job Tailor AI</string>
+    <string name="tab_tracker">Applications</string>
+    <string name="optimize_with_ai">Optimize with AI</string>
+    <string name="import_linkedin">Import LinkedIn</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="export_latex">LaTeX Studio</string>
+</resources>

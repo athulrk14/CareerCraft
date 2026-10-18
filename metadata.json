@@ -1,0 +1,6 @@
+{
+  "name": "CareerCraft",
+  "description": "Professional AI-powered resume builder with real-time bullet optimization, PDF and LaTeX export, ATS formatting, and job tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
